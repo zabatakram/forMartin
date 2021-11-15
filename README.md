@@ -23,3 +23,5 @@ et ensuite amuse toi avec le index.js
 | Je te conseille d'installer vscode et le plugin liveshare
 
 Good Luck 😘
+
+Test pour voir si tu lis envoie un msg 
